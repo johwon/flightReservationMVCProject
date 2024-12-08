@@ -70,7 +70,7 @@
 ![항공편가격인상](https://github.com/user-attachments/assets/02dd999d-3f79-415e-b4bc-afa28f9653da)
 
 
-### 4. 항공권(비행기 예약) 관리
+#### 4. 항공권(비행기 예약) 관리
 * 항공권 예약할 수 있는 화면입니다.
 ![스크린샷 2024-12-08 164722](https://github.com/user-attachments/assets/ebad1e36-5b24-4088-ace5-f4b6dff44b13)
 
